@@ -1,4 +1,4 @@
-**TweetViralitySentiment**: An Empirical Study on the Correlation between Tweet Sentiment and Virality
+# TweetViralitySentiment: An Empirical Study on the Correlation between Tweet Sentiment and Virality
 
 **Abstract**:
 The "TweetViralitySentiment" research project presents a rigorous examination of the relationship between the sentiment of tweets and their potential for virality. This study leverages advanced natural language processing techniques combined with a comprehensive dataset to provide insight into the patterns and trends governing tweet virality.
